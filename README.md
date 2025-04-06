@@ -32,7 +32,7 @@ The tool also supports caching data locally to avoid repeated API calls, and can
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/nightreader.git
+   git clone https://github.com/oakeley/NightReader.git
    cd nightreader
    ```
 
